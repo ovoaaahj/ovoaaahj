@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+
+
+<img src="https://img.shields.io/badge/-JAVA-red? &logoColor=white"/></a>
+
+
 
 <!--
 **ovoaaahj/ovoaaahj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
